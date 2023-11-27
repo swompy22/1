@@ -1,0 +1,38 @@
+.container_ne_bootstrap{
+    width: 70%;
+    padding: 50px;
+    margin: auto;
+    background-color: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: 0 0 40px 10px rgb(151, 151, 151);
+}
+
+a{
+    color:blue;
+    text-decoration: none;
+}
+
+#pod_zagolovok{
+    margin-bottom: 50px;
+}
+#proschanie{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.overflow_ne_boot{
+    width: 340px;
+    height: 350px;
+    overflow: auto;
+    border-top: solid 1px  rgb(192, 192, 192);
+    border-bottom: solid 1px  rgb(192, 192, 192);
+    padding: 20px;
+    border-radius: 10px;
+}
+.overflow_ne_boot2{
+    float: right;
+    /* display: inline-block;
+    justify-content: right;
+    text-align: right; */
+}

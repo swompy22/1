@@ -1,0 +1,57 @@
+.container_ne_bootstrap{
+    width: 80%;
+    padding: 50px;
+    margin: auto;
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 0 0 40px 10px rgb(158, 158, 158);
+}
+.overflow_ne_boot{
+    width: 340px;
+    height: 350px;
+    overflow: auto;
+    border-top: solid 1px  rgb(192, 192, 192);
+    border-bottom: solid 1px  rgb(192, 192, 192);
+    padding: 20px;
+    border-radius: 10px;
+}
+.overflow_ne_boot2{
+    float: right;
+    /* display: inline-block;
+    justify-content: right;
+    text-align: right; */
+}
+.display-1{
+    margin-top: 10px;
+    display: block;
+}
+.fonarik{
+    margin-bottom: 40px;
+}
+#text{
+    font-size: 25px;
+}
+
+.daunskij{
+    display: flex;
+    justify-content: end;
+}
+.nelza_cop {
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+color: #fff;
+}
+
+#tak_nado{
+    margin-left: 400px;
+}
+
+.img_nb{
+    text-align: right;
+    border-radius: 40px;
+}
